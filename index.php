@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1>Coba git remote</h1>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloribus cum natus iure architecto tempora perspiciatis voluptatum, itaque maxime vitae aspernatur temporibus neque voluptas eius fugit optio eaque. Illo, quo voluptas.</p>
 </body>
 </html>
